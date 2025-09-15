@@ -1,4 +1,4 @@
-# Homework - Git Practice
+# Homework 1 - Git Practice
 My submission for CPSC 131-04, Section 04, Lab 1 Week 1
 # My Information
 * Name: Marco Deng
